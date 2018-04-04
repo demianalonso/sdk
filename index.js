@@ -1,1 +1,5 @@
-export const func = () => 'hello'
+const func = () => 'hello'
+
+module.exports = {
+  func
+}
