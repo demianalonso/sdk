@@ -1,4 +1,4 @@
-const func = () => 'hello'
+const func = () => 'hello v2'
 
 module.exports = {
   func
